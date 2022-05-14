@@ -37,13 +37,6 @@ class GroupSelectionFragment : Fragment() {
         return binding.root
     }
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        val animation = TransitionInflater.from(context).inflateTransition(android.R.transition.move)
-        sharedElementEnterTransition = animation
-        sharedElementReturnTransition = animation
-    }
-
     override fun onDestroy() {
         super.onDestroy()
         _binding = null

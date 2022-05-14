@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/muzik/Desktop/project/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/muzik/Desktop/project/app/src/main/res/layout/fragment_day_of_week.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/muzik/Desktop/project/app/src/main/res/layout/fragment_group_selection.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/muzik/Desktop/project/app/src/main/res/layout/fragment_registration.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/nauru/AndroidStudioProjects/Schedule/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2065" />
         <entry key="..\:/Users/nauru/AndroidStudioProjects/Schedule/app/src/main/res/drawable/round_button.xml" value="0.168" />
         <entry key="..\:/Users/nauru/AndroidStudioProjects/Schedule/app/src/main/res/layout/activity_main.xml" value="0.1" />

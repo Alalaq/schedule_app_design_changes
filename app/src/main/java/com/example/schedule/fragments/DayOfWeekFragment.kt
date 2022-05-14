@@ -16,12 +16,4 @@ class DayOfWeekFragment : Fragment() {
     ): View? {
         return inflater.inflate(R.layout.fragment_day_of_week, container, false)
     }
-
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        val animation = TransitionInflater.from(context).inflateTransition(android.R.transition.fade)
-        sharedElementEnterTransition = animation
-        sharedElementEnterTransition = animation
-    }
-
 }

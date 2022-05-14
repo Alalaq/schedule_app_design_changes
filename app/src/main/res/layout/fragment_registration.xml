@@ -9,7 +9,6 @@
     >
 
     <TextView
-        android:transitionName="welcome_message"
         android:id="@+id/getToKnowTxtView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -18,9 +17,10 @@
         android:layout_marginTop="100dp"
         android:layout_marginRight="30dp"
         android:text="Давай знакомиться!"
-        android:textColor="@color/blue_5"
+        android:textColor="#4682b4"
         android:textSize="30sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:transitionName="welcome_message" />
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/firstNameInputLayout"
@@ -65,7 +65,7 @@
         android:layout_marginTop="30dp"
         android:text="Сохранить"
         android:textColor="@color/black"
-        android:textSize="26sp">
+        android:textSize="20sp">
 
     </androidx.appcompat.widget.AppCompatButton>
 
